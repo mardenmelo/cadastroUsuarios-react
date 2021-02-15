@@ -1,2 +1,4 @@
-# cadastroUsuarios-react
-App Cadastro de Usuários criado com React
+# Aplicação para cadastro de usuário
+Criado com React
+
+
