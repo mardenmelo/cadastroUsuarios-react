@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Marden Melo",
+      "email": "mardenmelo@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Marden G. R. Melo",
+      "email": "mmelo@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "teste",
+      "email": "teste@teste.com.br",
+      "id": 3
+    },
+    {
+      "name": "teste2",
+      "email": "teste2@teste2.com",
+      "id": 4
+    }
+  ]
+}
